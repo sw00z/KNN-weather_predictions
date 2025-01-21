@@ -6,8 +6,6 @@
 
 #### Historical Data:
 
-Fellows can get their city's historical weather data from:
-
 - WeatherAPI (free tier)
 - OpenWeatherMap API (free tier)
 
